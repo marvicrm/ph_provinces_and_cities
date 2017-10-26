@@ -50,7 +50,7 @@ console.log($.getCities("Batangas"));
 ```
 [DEMO](https://www.marvicrm.com/scripts/ph_provinces_and_cities/demo.php)
 
-Alay ko ang proyektong ito sa Republika ng Pilipinas
+Ang proyektong ito ay alay ko sa Republika ng Pilipinas
 
 Salamat,<br>
 Marvic R. Macalintal
