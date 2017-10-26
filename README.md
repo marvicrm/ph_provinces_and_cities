@@ -52,5 +52,5 @@ console.log($.getCities("Batangas"));
 
 Alay ko ang proyektong ito sa Republika ng Pilipinas
 
-Thanks,<br>
+Salamat,<br>
 Marvic R. Macalintal
