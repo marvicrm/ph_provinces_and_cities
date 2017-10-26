@@ -55,6 +55,6 @@ Ang proyektong ito ay alay ko sa Republika ng Pilipinas
 Salamat,<br>
 Marvic R. Macalintal
 
-<center>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]
-</center>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XM7R9M2J6BTF2)
+
