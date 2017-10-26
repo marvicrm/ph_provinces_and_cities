@@ -37,7 +37,7 @@ object.showCities("Laguna",arg) // will output all cities of Laguna
 ```
 ### Additional Methods 
 ```javascript
-// You can also play with the methods below (If you want to do more with given data)
+// You can also play with the methods below (If you want to do more with the given data)
 
 // will return all provinces (array)
 console.log($.getProvinces());
