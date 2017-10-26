@@ -52,4 +52,5 @@ console.log($.getCities("Batangas"));
 
 Alay ko ang proyektong ito sa Republika ng Pilipinas
 
-- Marvic R. Macalintal
+Thanks,
+Marvic R. Macalintal
