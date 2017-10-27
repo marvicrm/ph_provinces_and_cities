@@ -51,7 +51,7 @@ console.log($.getCities("Batangas"));
 // sample code for printing the array content
 // will print all cities under Batangas
 for(let i in $.getCities("Batangas")) {
-	console.log($.getCities("Batangas")[i]);
+    console.log($.getCities("Batangas")[i]);
 }
 ```
 [DEMO](https://www.marvicrm.com/scripts/ph_provinces_and_cities/demo.php)
