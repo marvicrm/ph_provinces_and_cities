@@ -57,6 +57,11 @@ for(let province in cities) {
 for(let city in $.getCities("Batangas")) {
     console.log($.getCities("Batangas")[city]);
 }
+// will print the entire cities of all provinces
+let all = $.getAllCities();
+for(let city in all) {
+    console.log(all[city]);
+}
 ```
 [DEMO](https://www.marvicrm.com/scripts/ph_provinces_and_cities/demo.php)
 
