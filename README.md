@@ -50,7 +50,7 @@ console.log($.getCities("Batangas"));
 
 // sample code for printing the array content
 // will print all cities under Batangas
-for(i in $.getCities("Batangas")) {
+for(let i in $.getCities("Batangas")) {
 	console.log($.getCities("Batangas")[i]);
 }
 ```
