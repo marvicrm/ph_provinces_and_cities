@@ -46,7 +46,13 @@ console.log($.getProvinces());
 console.log($.getAllCities());
 	
 // will return all cities under specific province (array)
-console.log($.getCities("Batangas"));	
+console.log($.getCities("Batangas"));
+
+// sample code for printing the array content
+// will print all cities under Batangas
+for(i in $.getCities("Batangas")) {
+	console.log($.getCities("Batangas")[i]);
+}
 ```
 [DEMO](https://www.marvicrm.com/scripts/ph_provinces_and_cities/demo.php)
 
