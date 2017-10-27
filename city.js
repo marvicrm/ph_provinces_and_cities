@@ -139,7 +139,7 @@
 		'Ginatilan','Lapu-Lapu','Liloan','Madridejos','Malabuyoc','Mandaue',
 		'Medellin','Minglanilla','Moalboal','Naga','Oslob','Pilar',
 		'Pinamungajan','Poro','Ronda','Samboan','San Fernando','San Francisco',
-		'San Remigio','	Santa Fe','Santander','Sibonga','Sogod','Tabogon',
+		'San Remigio','Santa Fe','Santander','Sibonga','Sogod','Tabogon',
 		'Tabuelan','Talisay','Toledo','Tuburan','Tudela'
 		],
 	'Compostela Valley' : [
