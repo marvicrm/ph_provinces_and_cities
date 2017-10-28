@@ -2,7 +2,7 @@
 Philippine Provinces &amp; Cities/Municipalities on HTML Dropdown
 
 ### Description
-A very lightweight stand alone javascript project which aims to help anyone who need information/data regarding Philippine provinces & cities. 
+A very lightweight standalone javascript project which aims to help anyone who need information/data regarding Philippine provinces & cities. 
 
 ### Basic Usage
 ```javascript
